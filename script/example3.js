@@ -1,6 +1,6 @@
 let key = "color";
 let bike = {
-  brand: = "Yamaha",
+  brand: "Yamaha",
   [key]: "Black"
 };
 
